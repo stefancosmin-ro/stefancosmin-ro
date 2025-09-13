@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Passionate about OS (Linux, Windows), Networking, Security, and Azure Cloud</em><br/>
+  <em>Linux | Automation | VMs | Cloud</em><br/>
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stefancosmin-ro&color=40C9FF" alt="Profile views" />
@@ -18,7 +18,17 @@
 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Automation** (Docker, Kubernetes, Ansible, Terraform).  
+- Technologies:
+  - **Linux** (Debian, CentOS)
+  - **Scripting** (Bash).
+  - **Version Control** (Git, GitHub).
+  - **Containers** (Docker).
+  - **Cloud Providers** (AWS, Azure, OCI).
+  - **Provisioning** (Terraform).
+  - **Management** (Ansible).
+  - **Monitoring** (Prometheus, Grafana).
+  - **CI/CD** (GitHub Actions).
+  - **Orchestration** (Kubernetes).
 - 🌱 Scaling skills in **Cybersecurity**, **Cloud Infrastructure** and **Networking**.
 - 📫 Reach out to me at **contact@stefancosmin.ro**  
 - ⚡ In my free time:  
@@ -32,7 +42,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,docker,kubernetes,terraform,ansible,git,github,azure&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,docker,terraform,git,github&theme=light" />
 </p>
 
 ---

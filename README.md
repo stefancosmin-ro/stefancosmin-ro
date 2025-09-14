@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 - Technologies:
-  - **Linux** (Debian, CentOS)
+  - **Linux** (Debian, CentOS).
   - **Scripting** (Bash).
   - **Version Control** (Git, GitHub).
   - **Containers** (Docker).
@@ -29,7 +29,8 @@
   - **Monitoring** (Prometheus, Grafana).
   - **CI/CD** (GitHub Actions).
   - **Orchestration** (Kubernetes).
-- 🌱 Scaling skills in **Cybersecurity**, **Cloud Infrastructure** and **Networking**.
+  - **Virtualization** (Proxmox, VMware, VirtualBox).
+- 🌱 Scaling skills in **Cybersecurity**, **Virtualization** and **Networking**.
 - 📫 Reach out to me at **contact@stefancosmin.ro**  
 - ⚡ In my free time:  
   - 🛠 Home automation & electronics  

@@ -23,13 +23,12 @@
   - **Scripting** (Bash).
   - **Version Control** (Git, GitHub).
   - **Containers** (Docker).
-  - **Cloud Providers** (AWS, Azure, OCI).
+  - **Oracle Cloud Infrastructure (OCI)**
   - **Provisioning** (Terraform).
   - **Management** (Ansible).
   - **Monitoring** (Prometheus, Grafana).
-  - **CI/CD** (GitHub Actions).
   - **Orchestration** (Kubernetes).
-  - **Virtualization** (Proxmox, VMware, VirtualBox).
+  - **Virtualization** (Proxmox, VirtualBox).
 - 🌱 Scaling skills in **Cybersecurity**, **Virtualization** and **Networking**.
 - 📫 Reach out to me at **contact@stefancosmin.ro**  
 - ⚡ In my free time:  

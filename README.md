@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>Linux | Automation | VMs | Cloud</em><br/>
+  <em>Linux | Automation | Electronics | VMs | Cloud</em><br/>
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stefancosmin-ro&color=40C9FF" alt="Profile views" />
@@ -31,8 +31,7 @@
   - **Virtualization** (Proxmox, VirtualBox).
 - 🌱 Scaling skills in **Cybersecurity**, **Virtualization** and **Networking**.
 - 📫 Reach out to me at **contact@stefancosmin.ro**  
-- ⚡ In my free time:  
-  - 🛠 Home automation & electronics  
+- ⚡ In my free time:    
   - 🚴‍♂️ Cycling & mountain hiking  
   - 🎣 Fishing  
   - 🎬 Video editing  

@@ -23,7 +23,7 @@
   - **Scripting** (Bash).
   - **Version Control** (Git, GitHub).
   - **Containers** (Docker).
-  - **Oracle Cloud Infrastructure (OCI)**
+  - **Oracle Cloud Infrastructure** (OCI, Azure, AWS).
   - **Provisioning** (Terraform).
   - **Management** (Ansible).
   - **Monitoring** (Prometheus, Grafana).
